@@ -21,6 +21,7 @@ namespace NineZeroThreeZero.Controllers
 
         public IActionResult Privacy()
         {
+          //My name is Nematullah khan
             return View();
         }
 
