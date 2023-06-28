@@ -25,6 +25,12 @@ namespace NineZeroThreeZero.Controllers
             return View();
         }
 
+        public IActionResult Privacy1()
+        {
+            //My name is Faisal uddin mohammed
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
