@@ -21,6 +21,7 @@ namespace NineZeroThreeZero.Controllers
 
         public IActionResult Privacy()
         {
+            // This is faisal push
             return View();
         }
 
